@@ -1,0 +1,11 @@
+console.log('hola mundo')
+function sum(x,y){return x + y}
+const os = require('node:os')
+console.log('informacion del SO')
+console.log('**************************')
+console.log('Version del sistema operativo:', os.platform())
+console.log('Arquitectura:', os.arch())
+console.log('CPUs', os.cpus())
+console.log('memoria libre:', os.freemem() / 1024 / 1024)
+console.log('memoria total:', os.totalmem() / 1024 / 1024)
+console.log('uptime', os.uptime() /60/60)
