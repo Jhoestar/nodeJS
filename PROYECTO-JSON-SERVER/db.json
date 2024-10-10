@@ -1,0 +1,57 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "9835"
+    },
+    {
+      "id": "c995"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "da00"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "3e17"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "9afe"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "7dc1"
+    },
+    {
+      "nombre": "JavaScript desde Cero",
+      "duracion": 9,
+      "dificultad": "alta",
+      "id": "293e"
+    }
+  ]
+}
